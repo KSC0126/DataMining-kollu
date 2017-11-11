@@ -2,12 +2,12 @@
 
 |         | Name                 |
 |:--------:|:--------------------:|
-|   1      |   Thejaswini Reddy Vootkuri         |
-|   2      |    Showrya Chakra Kollu         |
+|   1      |   Showrya Chakra Kollu         |
+|   2      |    Thejaswini Reddy Vootkuri         |
 
 #### Powerpoint
 
-[ALEXNET](https://github.com/vootkurithejaswini/DataMining-vootkuri/blob/master/Assignments/wiki_contributions/alexnet.pptx)
+[ALEXNET](https://github.com/kollushowrya/DataMining-kollu/blob/master/Assignments/wiki_contributions/alexnet.pptx)
 
 #### Contributed Words
 
